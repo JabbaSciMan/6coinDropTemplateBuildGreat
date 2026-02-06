@@ -1,0 +1,4 @@
+repository "6coinDropTemplateBuild/6coinDropTemplateBuild@20067395453495@cloud"
+  path "/"
+    br "/main"
+    co "/main"
