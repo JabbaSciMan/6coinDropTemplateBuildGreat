@@ -1,1 +1,1 @@
-<img width="1181" height="864"  src="assets/preview.png" />
+<img width="1181" height="864"  src="Assets/preview.png" />
